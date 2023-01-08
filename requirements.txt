@@ -1,0 +1,6 @@
+django
+djoser
+pillow
+djangorestframework
+django-cors-headers
+django_rest_passwordreset
